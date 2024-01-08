@@ -1,3 +1,15 @@
+Module 4: Functions
+
+# Master of science in Software Engineering
+
+## Модуль 4. (Функції)
+
+### План заняття (16.11.2023):
+
+- Функції
+- Область видимості
+- Стек викликів
+
 Module 3: Arrays
 
 # Master of science in Software Engineering
